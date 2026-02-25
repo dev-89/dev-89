@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Kay 👋
 
-<!--
-**dev-89/dev-89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Staff-oriented Software Engineer focused on **AI systems** and **distributed architectures**.
+I build production-shaped systems and write down the trade-offs.
 
-Here are some ideas to get you started:
+## What I'm doing now
+- 🔁 **nextcloud-sync** — Reliability patterns in real-world sync & integration tooling  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Engineering interests
+- Distributed systems (consistency, backpressure, reliability)
+- AI platforms (LLM/RAG, retrieval evaluation, serving)
+- Production engineering (observability, CI/CD, operational excellence)
+
+## Contact
+- Website: https://herklotz.io  
+- LinkedIn: https://linkedin.com/in/kayherklotz  
